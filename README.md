@@ -7,7 +7,7 @@
 1. Clone the repository to your local machine using
    
    ```bash
-   git clone https://github.com/pulkit0333/twitter3.git
+   https://github.com/yash-dhariwal/Bl-Twitter-main.git
    ```
 3. Run the setup.sh shell script (for mac) or setup.bat script for windows in each of the project directories to setup frontend, backend and nft creation projects.
 
